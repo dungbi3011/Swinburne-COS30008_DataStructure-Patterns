@@ -1,0 +1,3 @@
+﻿  Main.cpp
+D:\zbi\COS30008 Data Structure and Patterns\Final_Exam\Final_Exam\TernaryTree.h(214): warning C4715: 'TernaryTree<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::operator=': not all control paths return a value
+  Final_Exam.vcxproj -> D:\zbi\COS30008 Data Structure and Patterns\Final_Exam\Final_Exam\Debug\Final_Exam.exe

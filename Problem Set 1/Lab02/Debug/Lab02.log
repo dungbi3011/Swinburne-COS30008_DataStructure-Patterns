@@ -1,0 +1,17 @@
+﻿  Main.cpp
+C:\Users\ZungBii\Downloads\Main.cpp(44,26): error C2064: term does not evaluate to a function taking 1 arguments
+C:\Users\ZungBii\Downloads\Main.cpp(46,16): error C2039: 'getDerivative': is not a member of 'Polynomial'
+C:\Users\ZungBii\Downloads\Polynomial.h(10): message : see declaration of 'Polynomial'
+C:\Users\ZungBii\Downloads\Main.cpp(54,16): error C2039: 'getIndefiniteIntegral': is not a member of 'Polynomial'
+C:\Users\ZungBii\Downloads\Polynomial.h(10): message : see declaration of 'Polynomial'
+C:\Users\ZungBii\Downloads\Main.cpp(63,14): error C2039: 'getIndefiniteIntegral': is not a member of 'Polynomial'
+C:\Users\ZungBii\Downloads\Polynomial.h(10): message : see declaration of 'Polynomial'
+C:\Users\ZungBii\Downloads\Main.cpp(65,14): error C2039: 'getDerivative': is not a member of 'Polynomial'
+C:\Users\ZungBii\Downloads\Polynomial.h(10): message : see declaration of 'Polynomial'
+C:\Users\ZungBii\Downloads\Main.cpp(67,14): error C2039: 'getIndefiniteIntegral': is not a member of 'Polynomial'
+C:\Users\ZungBii\Downloads\Polynomial.h(10): message : see declaration of 'Polynomial'
+C:\Users\ZungBii\Downloads\Main.cpp(69,14): error C2039: 'getDefiniteIntegral': is not a member of 'Polynomial'
+C:\Users\ZungBii\Downloads\Polynomial.h(10): message : see declaration of 'Polynomial'
+  Polynomial.cpp
+D:\zbi\COS30008 Data Structure and Patterns\Lab02\Lab02\Polynomial.h(66,21): warning C4018: '<=': signed/unsigned mismatch
+  Generating Code...
